@@ -8,12 +8,19 @@ Năm câu hỏi mở đầu
 | Tin cậy        | Không có validator đối chiếu số liệu; AI tự sinh chỉ số mà không có trích nguồn dữ liệu gốc    | **GỐC** |
 | Đo lường     | Chỉ đo số lượng báo cáo AI tạo ra; chưa đo tỷ lệ sai số và thời gian nhân viên phải viết lại | **GỐC** |
 
+
+
+
+
 #### ADKAR — người dùng đang kẹt ở đâu?
 
-| Bước                  | Nghĩa                                    | Cách xử lý                                       |
-| ----------------------- | ----------------------------------------- | --------------------------------------------------- |
-| **A**wareness     | Hiểu vì sao công việc cần thay đổi | Giải thích vấn đề và tác động              |
-| **D**esire        | Có lý do để muốn thay đổi          | Giảm trở ngại, xử lý nỗi lo                   |
-| **K**nowledge     | Biết cách làm                          | Hướng dẫn theo quy trình                        |
-| **A**bility       | Làm được trong thực tế              | Thực hành, hỗ trợ, người dẫn dắt            |
-| **R**einforcement | Duy trì hành vi mới                    | Phản hồi, quản lý theo sát, chỉ số phù hợp |
+| Bước                  | Nhận định                                                                                                         | Trạng thái  |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------- |
+| **A**wareness     | Chưa hiểu rõ ranh giới: AI chỉ hỗ trợ diễn đạt chứ không tính toán số liệu         | Nghẽn         |
+| **D**esire        | Sợ chịu trách nhiệm khi báo cáo sai số; thà viết tay từ đầu còn hơn mất công rà soát sửa lỗi | Nghẽn         |
+| **K**nowledge     | Chưa biết cách cấp context đầu vào chuẩn  và dùng prompt ràng buộc độ dài, format                    | Cần làm    |
+| **A**bility       | Chưa có công cụ validator tự động đối chiếu số liệu nháp với file dữ liệu thô ngay khi viết         | Cần làm    |
+| **R**einforcement | Chưa có cơ chế ghi nhận báo cáo chuẩn, chưa phạt/thưởng dựa trên tỷ lệ tiết kiệm thời gian thực tế | Cần làm<br /> |
+
+
+**Kết luận:** đào tạo prompt là chưa đủ; cần khóa cứng số liệu (chống ảo giác), cơ chế đối soát tự động và quy định rõ trách nhiệm kiểm duyệt ngay tại workflow.
