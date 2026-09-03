@@ -2,7 +2,7 @@
 
 ## Cách kiểm tra
 
-Nhóm dùng checklist §4.6 của lab để kiểm tra chéo theo bốn trục: phạm vi, framework, chỉ số và hành động. Hồ sơ nguồn không ghi tên nhóm đối tác; vì vậy tài liệu này chỉ lưu lại nội dung góp ý và thay đổi đã áp dụng, không gán tên người/nhóm không có căn cứ.
+Nhóm dùng checklist §4.6 của lab để phản biện chéo **nhóm Vinno** theo bốn trục: phạm vi, framework, chỉ số và hành động. Tài liệu này lưu lại nội dung góp ý và thay đổi đã áp dụng.
 
 ## Góp ý cụ thể
 

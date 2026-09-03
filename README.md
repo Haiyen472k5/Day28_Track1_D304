@@ -4,11 +4,11 @@
 
 | Họ tên | MSSV | Phần phụ trách | Góp ý đã đưa cho nhóm bạn |
 |---|---|---|---|
-| Nguyễn Thị Hải Yến | 2A202601388 | ADKAR, tổng hợp vấn đề và memo | Đề nghị nhóm bạn phân biệt điểm nghẽn Desire/Ability với nhu cầu đào tạo; bổ sung hành động khi chỉ số xấu |
-| Đồng Đại Huy | 2A202601901 | Mollick, phân chia người–AI và điểm bàn giao | Đề nghị nhóm bạn nêu rõ ai giữ quyền quyết định, ai kiểm chứng và cách chuyển người khi AI không chắc chắn |
-| Lê Đình Việt | 2A202601528 | Gartner-Lite, readiness/governance và roadmap | Đề nghị nhóm bạn bổ sung data owner, nguồn dữ liệu, gate 30–60–90 và không rollout khi readiness chưa đạt |
+| Nguyễn Thị Hải Yến | 2A202601388 | ADKAR, tổng hợp vấn đề và memo | **Vinno:** Đề nghị phân biệt điểm nghẽn Desire/Ability với nhu cầu đào tạo; bổ sung hành động khi chỉ số xấu |
+| Đồng Đại Huy | 2A202601901 | Mollick, phân chia người–AI và điểm bàn giao | **Vinno:** Đề nghị nêu rõ ai giữ quyền quyết định, ai kiểm chứng và cách chuyển người khi AI không chắc chắn |
+| Lê Đình Việt | 2A202601528 | Gartner-Lite, readiness/governance và roadmap | **Vinno:** Đề nghị bổ sung data owner, nguồn dữ liệu, gate 30–60–90 và không rollout khi readiness chưa đạt |
 
-Nhóm đã thực hiện kiểm tra chéo theo bốn trục của lab: phạm vi, framework, chỉ số và hành động. Tên nhóm đối tác không được lưu trong các tài liệu nguồn; nội dung góp ý và thay đổi sau phản biện được ghi trong [review/phan_bien_cheo.md](review/phan_bien_cheo.md).
+Nhóm đã phản biện chéo **nhóm Vinno** theo bốn trục của lab: phạm vi, framework, chỉ số và hành động. Nội dung góp ý và thay đổi sau phản biện được ghi trong [review/phan_bien_cheo.md](review/phan_bien_cheo.md).
 
 ## 2. Phạm vi
 
